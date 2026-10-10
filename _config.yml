@@ -1,0 +1,16 @@
+# GitHub Pages（Jekyll）配置
+# 这个文件控制线上站点 bd7inc.github.io/blog/ 的标题、语言和主题。
+
+# 站点标题：显示在浏览器标签页和页面顶部
+title: 博客
+
+# 副标题：显示在标题旁边，也会进搜索引擎的描述
+description: 用 Markdown 写作，按主题归档。
+
+# 页面语言，影响浏览器和搜索引擎的判定（默认是 en-US）
+lang: zh-CN
+
+# 主题皮肤。GitHub Pages 默认就是 primer，这里写明以便以后改成其它主题。
+# 可选：jekyll-theme-primer（当前）、jekyll-theme-minima、jekyll-theme-cayman、
+#       jekyll-theme-slate、jekyll-theme-architect、jekyll-theme-midnight
+theme: jekyll-theme-primer
